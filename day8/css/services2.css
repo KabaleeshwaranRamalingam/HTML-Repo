@@ -1,0 +1,30 @@
+body{
+    background-color:#98D8AA;
+}
+div{
+    background-color:whitesmoke;
+    height:200px;
+    width:200px;
+    float:left;
+    text-align: center;
+    font-size:medium    ;
+}
+h1{
+    color:black;
+    text-transform: uppercase;
+    margin-left: 37%;
+}
+section{
+    margin-left:25%;
+}
+button{
+    height:20px;
+    font-size: xx-small;
+    background-color: slategray;
+    color:azure;
+}
+.img{
+    margin-top:25px;
+    height:40px;
+    width: 40px;
+}

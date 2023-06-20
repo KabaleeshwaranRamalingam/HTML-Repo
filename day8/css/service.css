@@ -1,0 +1,26 @@
+body{
+    background-color:aqua;
+}
+
+div{
+    background-color: white;
+    height: 140px;
+    width: 150px;
+    margin: 20px;
+    font-size:small;
+    text-align:center;
+
+}
+h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+
+section{
+    margin: auto 150px auto 25%;
+}
+hr{
+    background-color: black;
+    width: 40px;
+    height: 5px;
+}

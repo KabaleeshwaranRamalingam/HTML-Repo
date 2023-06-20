@@ -1,0 +1,19 @@
+div{
+    background-color:whitesmoke;
+    height: 300px;
+    width: 300px;
+    font-size: large;
+}
+.para-one{
+    height: 300px;
+    width: 300px;
+    font-size: large;
+
+}
+section{
+    margin: 10% 25% auto 25%;
+}
+button{
+    background-color:crimson;
+    color: aliceblue;
+}
